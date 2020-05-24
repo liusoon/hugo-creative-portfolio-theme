@@ -17,7 +17,7 @@ Go to the directory where you have your Hugo site and run:
 ```bash
 mkdir themes
 cd themes
-git clone https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
+git clone https://github.com/symbiotic-space/hugo-creative-portfolio-theme.git
 rm -rf hugo-creative-portfolio-theme/.git
 ```
 
